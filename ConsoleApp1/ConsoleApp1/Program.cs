@@ -14,6 +14,7 @@ namespace ConsoleApp1
             // code was add in visual studio
 
             // code to call Feature 1
+            // code is not the same!
         }
     }
 }
