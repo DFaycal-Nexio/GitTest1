@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // code has been modified in github a second time!
+            // code was modified in github a second time!
+            // code was add in visual studio
         }
     }
 }
